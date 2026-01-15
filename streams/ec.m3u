@@ -169,3 +169,5 @@ https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
 https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8
 #EXTINF:-1 tvg-id="ZaracayTV.ec@SD",Zaracay TV (1080p) [Not 24/7]
 https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
+#EXTINF:-1 tvg-id="Masharos News.ec@SD",Masharos News (1080p) 
+https://customer-rebat2g7856h5o6j.cloudflarestream.com/59e7fa58147daf1edfdb3090483db5e5/manifest/video.m3u8
